@@ -1,4 +1,4 @@
-## Hi, I’m Kenneth Odoh 👋
+## Hi, I’m Odoh Kenneth Chidiebere 👋
 
 I’m a chemist with strong training in data analytics and a growing focus on
 cheminformatics and computational drug discovery.
