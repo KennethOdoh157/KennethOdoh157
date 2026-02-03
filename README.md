@@ -1,32 +1,27 @@
 ## Hi, I’m Odoh Kenneth Chidiebere 👋
 
-I’m a chemist with strong training in data analytics and a growing focus on
-cheminformatics and computational drug discovery.
+Chemist with strong grounding in data analytics and applied cheminformatics, focused on machine learning–driven drug discovery and molecular screening.
 
 ### Featured Projects
 
 #### 🧪 Drug-Likeness & Toxicity ML Pipeline
-End-to-end cheminformatics and machine learning pipeline for prioritizing drug-like
-molecules using physicochemical descriptors, Lipinski’s Rule of Five, QED, and
-Tox21 toxicity predictions.
+End-to-end cheminformatics and machine learning pipeline for prioritizing drug-like molecules using molecular descriptors, Lipinski-based heuristics, QED scoring, and Tox21 toxicity prediction. Emphasizes feature engineering, model evaluation, and reproducible screening workflows.
 
-**Focus:** molecular descriptors, feature engineering, ML modeling, drug screening
+**Core focus:** molecular representation, toxicity modeling, drug-likeness filtering
 
 ---
 
 #### 📊 E-commerce Data Analytics Pipeline
-End-to-end analytics pipeline using SQL and Power BI, covering data modeling,
-data warehousing, and business-focused insights.
+End-to-end analytics engineering pipeline using SQL and Power BI, covering dimensional modeling, data warehousing, and business-oriented insight generation.
 
-**Focus:** data warehousing, dimensional modeling, analytics engineering
+**Core focus:** data warehousing, dimensional modeling, analytics engineering
 
 ---
 
 ### Tools & Skills
-- Python, SQL (T-SQL)
-- Pandas, NumPy, scikit-learn
+- Python (data analysis, ML)
 - RDKit (cheminformatics)
+- SQL (T-SQL)
+- Pandas, NumPy, scikit-learn
 - Power BI
-- Jupyter Notebook
 
-📫 GitHub linked from my LinkedIn profile.
