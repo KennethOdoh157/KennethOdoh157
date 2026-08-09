@@ -1,4 +1,4 @@
-# Kenneth Odoh Chidiebere
+# Odoh Kenneth Chidiebere
 
 **Computational Chemist | Cheminformatics | ML-Guided Drug Discovery**
 
